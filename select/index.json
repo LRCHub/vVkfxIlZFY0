@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Righteous - Mo Beats (Pepe Animations)",
+  "base_artist": "Unagi604",
+  "createdAt": "2025-12-01T16:28:38.404048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Self-Righteous Boy Reduced To Tears",
+      "artist": "The Loud Family",
+      "has_synced": false,
+      "path": "select/01_Self-Righteous_Boy_Reduced_To_Tears_The_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Self Righteous Boy Reduced To Tears",
+      "artist": "Loud Family",
+      "has_synced": false,
+      "path": "select/02_Self_Righteous_Boy_Reduced_To_Tears_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Best Revenge (AutoKratz Righteous Retribution Mix)",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/03_The_Best_Revenge_(AutoKratz_Righteous_Retribution_Mix)_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Righteous One",
+      "artist": "Westworld",
+      "has_synced": false,
+      "path": "select/04_Righteous_One_Westworld.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Path of the Righteous",
+      "artist": "In the Woods...",
+      "has_synced": false,
+      "path": "select/05_Path_of_the_Righteous_In_the_Woods....txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Records for the Righteous",
+      "artist": "Grafton Primary",
+      "has_synced": false,
+      "path": "select/06_Records_for_the_Righteous_Grafton_Primary.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Righteous Glory",
+      "artist": "Manowar",
+      "has_synced": true,
+      "path": "select/07_Righteous_Glory_Manowar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Righteous & The Wicked",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_The_Righteous_&_The_Wicked_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Self-Righteous Fuck",
+      "artist": "NORTHER",
+      "has_synced": false,
+      "path": "select/09_Self-Righteous_Fuck_NORTHER.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fucking Righteous",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/10_Fucking_Righteous_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fucking Righteous",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/11_Fucking_Righteous_Pavement.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Self Righteous Indignation",
+      "artist": "Prong",
+      "has_synced": true,
+      "path": "select/12_Self_Righteous_Indignation_Prong.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Self Righteous",
+      "artist": "Third Eye Blind",
+      "has_synced": false,
+      "path": "select/13_Self_Righteous_Third_Eye_Blind.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sleep of the Righteous",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/14_Sleep_of_the_Righteous_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Righteous Woman",
+      "artist": "Torres",
+      "has_synced": true,
+      "path": "select/15_Righteous_Woman_Torres.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take It to da House (feat. Trina, Co, J.V., Money Mark Diggla & Righteous Funk Boogie)",
+      "artist": "Trick Daddy",
+      "has_synced": true,
+      "path": "select/16_Take_It_to_da_House_(feat._Trina,_Co,_J.V.,_Money_Mark_Diggla_&_Righteous_Funk_B_Trick_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Righteous Night",
+      "artist": "Des'ree",
+      "has_synced": true,
+      "path": "select/17_Righteous_Night_Des'ree.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hot, Blue and Righteous",
+      "artist": "ZZ Top",
+      "has_synced": false,
+      "path": "select/18_Hot,_Blue_and_Righteous_ZZ_Top.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Righteous Thunder",
+      "artist": "宮野 真守",
+      "has_synced": false,
+      "path": "select/pl_01_Righteous_Thunder_宮野_真守.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Righteous Thunder",
+      "artist": "宮野 真守",
+      "has_synced": false,
+      "path": "select/pl_02_Righteous_Thunder_宮野_真守.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Righteous",
+      "artist": "宮野 真守",
+      "has_synced": false,
+      "path": "select/pl_03_Righteous_宮野_真守.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Righteous",
+      "artist": "宮野 真守",
+      "has_synced": false,
+      "path": "select/pl_04_Righteous_宮野_真守.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Righteous",
+      "artist": "宮野 真守",
+      "has_synced": false,
+      "path": "select/pl_05_Righteous_宮野_真守.txt"
+    }
+  ]
+}
